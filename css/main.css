@@ -29,6 +29,6 @@ a {
 .card {
   overflow: hidden;
 
-  border-radius: #d9ccaa;
+  background-color: #d9ccaa;
   border-radius: 6px;
 }
